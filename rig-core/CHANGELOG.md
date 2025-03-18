@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.11.0](https://github.com/getong/rig/compare/rig-core-v0.10.0...rig-core-v0.11.0) - 2025-03-18
+
+### Added
+
+- *(provider)* cohere-v2 ([#350](https://github.com/getong/rig/pull/350))
+
+### Fixed
+
+- *(openai)* serde rename for image_url UserContent ([#355](https://github.com/getong/rig/pull/355))
+
 ## [0.10.0](https://github.com/0xPlaygrounds/rig/compare/rig-core-v0.9.1...rig-core-v0.10.0) - 2025-03-17
 
 ### Added
